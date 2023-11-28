@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Kazuki and I currently work at Kiman Solutions LTDA as a fullstack developer, using Java, React and Oracle.
+
+I love learning and getting to know new technologies, so I'm always open to a new challenge.
+
+⚡ Fun fact:
+If there's one thing I like, it's learning new and better ways of writing code, discovering how other people think and better ways of expressing my intentions through code, because that's how I got interested in programming, it was seeing the thousands of ways of achieving the same result, but realizing that among them the most accepted was always the simplest and most readable. That's how I discovered this art called programming.
+
+
 <!--
 **GKazukiOnishi/GKazukiOnishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
